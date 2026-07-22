@@ -1,0 +1,8 @@
+{
+  "name": "sample-api-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "uvicorn src.app:app --reload",
+    "test": "pytest"
+  }
+}
